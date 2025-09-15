@@ -20,7 +20,7 @@
 
 
 
-6 )
+6)
 <img width="779" height="63" alt="image" src="https://github.com/user-attachments/assets/2bc268a9-b710-484f-8c11-085a995c4e95" />
 
 
